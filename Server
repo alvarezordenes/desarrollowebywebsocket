@@ -3,7 +3,7 @@ import threading
 
 HEADER = 64
 PORT = 80
-SERVER = '192.168.1.84'  # Reemplaza con la IP de tu PC
+SERVER = 'IP' 
 ADDR = (SERVER, PORT)
 FORMAT = 'utf-8'
 DISCONNECT_MESSAGE = "!DISCONNECT"
